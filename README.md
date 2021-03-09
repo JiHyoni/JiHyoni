@@ -1,5 +1,5 @@
 ### Hi there 👋
--  🏃‍♀️ [![Solved.ac
+-  💍 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=s20006s)](https://solved.ac/s20006s)
 - 🌱 I’m currently learning Android! 
 - ⚡ Fun fact: ...
